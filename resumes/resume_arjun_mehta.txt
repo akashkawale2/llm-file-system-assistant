@@ -1,0 +1,8 @@
+Arjun Mehta
+FICTIONAL SAMPLE RESUME
+Email: arjun_mehta@example.com
+Role: Frontend Developer
+Skills: JavaScript, React, CSS
+Experience: 2 years building responsive React dashboards.
+Education: Bachelor of Engineering, Example University
+Project: Built a demonstration application for an academic portfolio.

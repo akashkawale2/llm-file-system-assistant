@@ -1,0 +1,8 @@
+Rohan Desai
+FICTIONAL SAMPLE RESUME
+Email: rohan_desai@example.com
+Role: Graduate Intern
+Skills: HTML, CSS, beginner Python
+Experience: No professional experience; completed an introductory Python course.
+Education: Bachelor of Engineering, Example University
+Project: Built a demonstration application for an academic portfolio.
