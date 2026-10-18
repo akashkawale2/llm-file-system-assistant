@@ -1,0 +1,22 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Aditya Kulkarni
+Summary
+Machine Learning Engineer. 5 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Python, Machine Learning, PyTorch, Pandas, Docker
+Experience
+Total professional experience: 5 years
+Machine Learning Engineer at Fictional Example Organization 19.
+Trained predictive models, evaluated validation sets, deployed inference services, and monitored data drift.
+Explicit professional skill experience:
+Python: 5 years
+Machine Learning: 4 years
+PyTorch: 3 years
+Pandas: 5 years
+Docker: 4 years
+Education
+M.Tech. Computer Science, Example Institute, 2021.
+Projects
+Developed a document classification pipeline using vector representations and model evaluation.
+Certifications
+Completed introductory software engineering and technical communication training.

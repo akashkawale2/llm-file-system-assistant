@@ -1,0 +1,40 @@
+{
+  "job_description": "Senior Python Backend Developer\nBuild Python Django APIs using PostgreSQL. Requires 5+ years Python. Must-have: Python, Django\n",
+  "top_matches": [
+    {
+      "candidate_name": "Vivaan Jain",
+      "resume_path": "data/resumes/candidate_17.txt",
+      "match_score": 78.29,
+      "matched_skills": [
+        "Django",
+        "PostgreSQL",
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Experience: Total professional experience: 5 years Python Backend Developer at Fictional Example Organization 17. Built REST APIs with authentication, relational models, database indexes, and asynchronous task queues. Explicit professional skill experience: Python: 5 years Django: 4 years DRF: 3 years PostgreSQL: 5 years Docker: 4 years Git: 3 years",
+        "Skills: Python, Django, DRF, PostgreSQL, Docker, Git",
+        "Summary: Python Backend Developer. 5 years total professional experience. Interested in reliable software and collaborative delivery."
+      ],
+      "reasoning": "Matched sections: Experience, Skills, Summary. JD skill coverage: 3/3. Missing JD skills: none. All configured hard requirements passed.",
+      "score_components": {
+        "semantic_similarity": 0.6899,
+        "skill_coverage": 1.0
+      },
+      "experience_years": 5.0
+    }
+  ],
+  "search_metadata": {
+    "latency_ms": 73.65,
+    "eligible_candidates": 1,
+    "required_skills": [
+      "Django",
+      "Python"
+    ],
+    "required_skill_years": {
+      "Python": 5.0
+    },
+    "minimum_total_years": null,
+    "semantic_weight": 0.7,
+    "score_is_probability": false
+  }
+}

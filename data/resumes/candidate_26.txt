@@ -1,0 +1,22 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Rhea Singh
+Summary
+Frontend Engineer. 8 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+JavaScript, TypeScript, React, Git, Python
+Experience
+Total professional experience: 8 years
+Frontend Engineer at Fictional Example Organization 26.
+Built accessible browser interfaces, reusable components, responsive layouts, and client state management.
+Explicit professional skill experience:
+JavaScript: 8 years
+TypeScript: 7 years
+React: 6 years
+Git: 8 years
+Python: 7 years
+Education
+B.E. Electronics Engineering, Example Institute, 2018.
+Projects
+Implemented a dashboard with charts, search, and reusable forms.
+Certifications
+Completed introductory software engineering and technical communication training.

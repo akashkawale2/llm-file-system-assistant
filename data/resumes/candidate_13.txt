@@ -1,0 +1,22 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Dev Sethi
+Summary
+DevOps Engineer. 2 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Linux, AWS, Docker, Kubernetes, Terraform
+Experience
+Total professional experience: 2 years
+DevOps Engineer at Fictional Example Organization 13.
+Automated infrastructure provisioning, container rollouts, observability, and incident recovery.
+Explicit professional skill experience:
+Linux: 2 years
+AWS: 1 years
+Docker: 0 years
+Kubernetes: 2 years
+Terraform: 1 years
+Education
+B.Sc. Information Technology, Example Institute, 2024.
+Projects
+Implemented automated deployments with infrastructure plans and rollback procedures.
+Certifications
+Completed introductory software engineering and technical communication training.

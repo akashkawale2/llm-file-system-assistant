@@ -1,0 +1,23 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Yash Malhotra
+Summary
+DevOps Engineer. 5 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Linux, AWS, Docker, Kubernetes, Terraform, Git
+Experience
+Total professional experience: 5 years
+DevOps Engineer at Fictional Example Organization 21.
+Automated infrastructure provisioning, container rollouts, observability, and incident recovery.
+Explicit professional skill experience:
+Linux: 5 years
+AWS: 4 years
+Docker: 3 years
+Kubernetes: 5 years
+Terraform: 4 years
+Git: 3 years
+Education
+M.Tech. Computer Science, Example Institute, 2021.
+Projects
+Implemented automated deployments with infrastructure plans and rollback procedures.
+Certifications
+Completed introductory software engineering and technical communication training.

@@ -1,0 +1,23 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Pooja Naik
+Summary
+QA Automation Engineer. 8 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Python, Selenium, Pytest, SQL, Git, AWS
+Experience
+Total professional experience: 8 years
+QA Automation Engineer at Fictional Example Organization 30.
+Created regression suites, browser automation, API test cases, and reproducible defect reports.
+Explicit professional skill experience:
+Python: 8 years
+Selenium: 7 years
+Pytest: 6 years
+SQL: 8 years
+Git: 7 years
+AWS: 6 years
+Education
+B.E. Electronics Engineering, Example Institute, 2018.
+Projects
+Built a parallel browser test suite and generated CI test reports.
+Certifications
+Completed introductory software engineering and technical communication training.

@@ -1,0 +1,2 @@
+QA Automation Engineer
+Automate regression testing using Python, Pytest and Selenium, validating SQL databases. Must-have: Selenium, Pytest

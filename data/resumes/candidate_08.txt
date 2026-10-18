@@ -1,0 +1,22 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Tara Bose
+Summary
+Business Data Analyst. 0 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+SQL, Excel, Tableau, Power BI, Pandas
+Experience
+Total professional experience: 0 years
+Business Data Analyst at Fictional Example Organization 8.
+No professional employment yet. Completed academic coursework and internships; professional experience: 0 years.
+Explicit professional skill experience:
+SQL: 0 years
+Excel: 0 years
+Tableau: 0 years
+Power BI: 0 years
+Pandas: 0 years
+Education
+B.E. Computer Engineering, Example Institute, 2026.
+Projects
+Created a sales dashboard with cohort analysis and revenue measures.
+Certifications
+Completed introductory software engineering and technical communication training.

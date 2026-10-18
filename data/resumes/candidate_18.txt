@@ -1,0 +1,21 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Aisha Kapoor
+Summary
+Frontend Engineer. 5 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+JavaScript, TypeScript, React, Git
+Experience
+Total professional experience: 5 years
+Frontend Engineer at Fictional Example Organization 18.
+Built accessible browser interfaces, reusable components, responsive layouts, and client state management.
+Explicit professional skill experience:
+JavaScript: 5 years
+TypeScript: 4 years
+React: 3 years
+Git: 5 years
+Education
+M.Tech. Computer Science, Example Institute, 2021.
+Projects
+Implemented a dashboard with charts, search, and reusable forms.
+Certifications
+Completed introductory software engineering and technical communication training.

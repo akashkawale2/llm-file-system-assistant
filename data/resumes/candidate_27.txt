@@ -1,0 +1,23 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Ved Prasad
+Summary
+Machine Learning Engineer. 8 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Python, Machine Learning, PyTorch, Pandas, Docker, AWS
+Experience
+Total professional experience: 8 years
+Machine Learning Engineer at Fictional Example Organization 27.
+Trained predictive models, evaluated validation sets, deployed inference services, and monitored data drift.
+Explicit professional skill experience:
+Python: 8 years
+Machine Learning: 7 years
+PyTorch: 6 years
+Pandas: 8 years
+Docker: 7 years
+AWS: 6 years
+Education
+B.E. Electronics Engineering, Example Institute, 2018.
+Projects
+Developed a document classification pipeline using vector representations and model evaluation.
+Certifications
+Completed introductory software engineering and technical communication training.

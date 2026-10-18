@@ -1,0 +1,22 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Rohan Iyer
+Summary
+Java Backend Engineer. 0 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Java, Spring Boot, SQL, Docker, Redis
+Experience
+Total professional experience: 0 years
+Java Backend Engineer at Fictional Example Organization 7.
+No professional employment yet. Completed academic coursework and internships; professional experience: 0 years.
+Explicit professional skill experience:
+Java: 0 years
+Spring Boot: 0 years
+SQL: 0 years
+Docker: 0 years
+Redis: 0 years
+Education
+B.E. Computer Engineering, Example Institute, 2026.
+Projects
+Developed a payment processing service with idempotent requests and retry handling.
+Certifications
+Completed introductory software engineering and technical communication training.

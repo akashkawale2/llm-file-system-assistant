@@ -1,0 +1,21 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Nina Roy
+Summary
+Business Data Analyst. 2 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+SQL, Excel, Tableau, Power BI
+Experience
+Total professional experience: 2 years
+Business Data Analyst at Fictional Example Organization 16.
+Analyzed business performance, prepared executive dashboards, and validated reporting datasets.
+Explicit professional skill experience:
+SQL: 2 years
+Excel: 1 years
+Tableau: 0 years
+Power BI: 2 years
+Education
+B.Sc. Information Technology, Example Institute, 2024.
+Projects
+Created a sales dashboard with cohort analysis and revenue measures.
+Certifications
+Completed introductory software engineering and technical communication training.

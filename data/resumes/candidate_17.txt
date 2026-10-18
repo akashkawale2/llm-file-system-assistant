@@ -1,0 +1,23 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Vivaan Jain
+Summary
+Python Backend Developer. 5 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Python, Django, DRF, PostgreSQL, Docker, Git
+Experience
+Total professional experience: 5 years
+Python Backend Developer at Fictional Example Organization 17.
+Built REST APIs with authentication, relational models, database indexes, and asynchronous task queues.
+Explicit professional skill experience:
+Python: 5 years
+Django: 4 years
+DRF: 3 years
+PostgreSQL: 5 years
+Docker: 4 years
+Git: 3 years
+Education
+M.Tech. Computer Science, Example Institute, 2021.
+Projects
+Developed an event booking service with transactional ticket inventory and API tests.
+Certifications
+Completed introductory software engineering and technical communication training.

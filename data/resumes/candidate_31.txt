@@ -1,0 +1,23 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Nikhil Paul
+Summary
+Java Backend Engineer. 8 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Java, Spring Boot, SQL, Docker, Redis, Python
+Experience
+Total professional experience: 8 years
+Java Backend Engineer at Fictional Example Organization 31.
+Designed JVM microservices, authentication, caching, and transactional persistence.
+Explicit professional skill experience:
+Java: 8 years
+Spring Boot: 7 years
+SQL: 6 years
+Docker: 8 years
+Redis: 7 years
+Python: 6 years
+Education
+B.E. Electronics Engineering, Example Institute, 2018.
+Projects
+Developed a payment processing service with idempotent requests and retry handling.
+Certifications
+Completed introductory software engineering and technical communication training.

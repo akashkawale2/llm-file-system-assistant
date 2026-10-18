@@ -1,0 +1,22 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Ravi Verma
+Summary
+Java Backend Engineer. 5 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Java, Spring Boot, SQL, Docker, Redis
+Experience
+Total professional experience: 5 years
+Java Backend Engineer at Fictional Example Organization 23.
+Designed JVM microservices, authentication, caching, and transactional persistence.
+Explicit professional skill experience:
+Java: 5 years
+Spring Boot: 4 years
+SQL: 3 years
+Docker: 5 years
+Redis: 4 years
+Education
+M.Tech. Computer Science, Example Institute, 2021.
+Projects
+Developed a payment processing service with idempotent requests and retry handling.
+Certifications
+Completed introductory software engineering and technical communication training.

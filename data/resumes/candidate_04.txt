@@ -1,0 +1,23 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Mira Rao
+Summary
+Data Engineer. 0 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Python, SQL, Spark, Airflow, ETL, AWS
+Experience
+Total professional experience: 0 years
+Data Engineer at Fictional Example Organization 4.
+No professional employment yet. Completed academic coursework and internships; professional experience: 0 years.
+Explicit professional skill experience:
+Python: 0 years
+SQL: 0 years
+Spark: 0 years
+Airflow: 0 years
+ETL: 0 years
+AWS: 0 years
+Education
+B.E. Computer Engineering, Example Institute, 2026.
+Projects
+Built an incremental ingestion pipeline with retries and scheduled warehouse jobs.
+Certifications
+Completed introductory software engineering and technical communication training.

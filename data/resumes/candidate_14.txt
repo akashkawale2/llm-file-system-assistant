@@ -1,0 +1,21 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Zoya Ali
+Summary
+QA Automation Engineer. 2 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Python, Selenium, Pytest, SQL
+Experience
+Total professional experience: 2 years
+QA Automation Engineer at Fictional Example Organization 14.
+Created regression suites, browser automation, API test cases, and reproducible defect reports.
+Explicit professional skill experience:
+Python: 2 years
+Selenium: 1 years
+Pytest: 0 years
+SQL: 2 years
+Education
+B.Sc. Information Technology, Example Institute, 2024.
+Projects
+Built a parallel browser test suite and generated CI test reports.
+Certifications
+Completed introductory software engineering and technical communication training.

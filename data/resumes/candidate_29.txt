@@ -1,0 +1,24 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Rehan Gupta
+Summary
+DevOps Engineer. 8 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Linux, AWS, Docker, Kubernetes, Terraform, Git, Python
+Experience
+Total professional experience: 8 years
+DevOps Engineer at Fictional Example Organization 29.
+Automated infrastructure provisioning, container rollouts, observability, and incident recovery.
+Explicit professional skill experience:
+Linux: 8 years
+AWS: 7 years
+Docker: 6 years
+Kubernetes: 8 years
+Terraform: 7 years
+Git: 6 years
+Python: 8 years
+Education
+B.E. Electronics Engineering, Example Institute, 2018.
+Projects
+Implemented automated deployments with infrastructure plans and rollback procedures.
+Certifications
+Completed introductory software engineering and technical communication training.

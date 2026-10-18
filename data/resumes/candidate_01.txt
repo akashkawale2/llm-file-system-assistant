@@ -1,0 +1,23 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Aarav Mehta
+Summary
+Python Backend Developer. 0 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Python, Django, DRF, PostgreSQL, Docker, Git
+Experience
+Total professional experience: 0 years
+Python Backend Developer at Fictional Example Organization 1.
+No professional employment yet. Completed academic coursework and internships; professional experience: 0 years.
+Explicit professional skill experience:
+Python: 0 years
+Django: 0 years
+DRF: 0 years
+PostgreSQL: 0 years
+Docker: 0 years
+Git: 0 years
+Education
+B.E. Computer Engineering, Example Institute, 2026.
+Projects
+Developed an event booking service with transactional ticket inventory and API tests.
+Certifications
+Completed introductory software engineering and technical communication training.

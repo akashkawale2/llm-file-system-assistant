@@ -1,0 +1,22 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Meera Reddy
+Summary
+QA Automation Engineer. 5 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Python, Selenium, Pytest, SQL, Git
+Experience
+Total professional experience: 5 years
+QA Automation Engineer at Fictional Example Organization 22.
+Created regression suites, browser automation, API test cases, and reproducible defect reports.
+Explicit professional skill experience:
+Python: 5 years
+Selenium: 4 years
+Pytest: 3 years
+SQL: 5 years
+Git: 4 years
+Education
+M.Tech. Computer Science, Example Institute, 2021.
+Projects
+Built a parallel browser test suite and generated CI test reports.
+Certifications
+Completed introductory software engineering and technical communication training.

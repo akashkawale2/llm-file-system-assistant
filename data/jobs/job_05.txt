@@ -1,0 +1,2 @@
+DevOps Engineer
+Manage AWS infrastructure using Terraform, Kubernetes, Docker and Linux. Must-have: Kubernetes, Terraform

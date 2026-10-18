@@ -1,0 +1,23 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Alia George
+Summary
+Data Engineer. 8 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Python, SQL, Spark, Airflow, ETL, AWS, AWS
+Experience
+Total professional experience: 8 years
+Data Engineer at Fictional Example Organization 28.
+Orchestrated batch data pipelines, transformed warehouse tables, and monitored data quality.
+Explicit professional skill experience:
+Python: 8 years
+SQL: 7 years
+Spark: 6 years
+Airflow: 8 years
+ETL: 7 years
+AWS: 8 years
+Education
+B.E. Electronics Engineering, Example Institute, 2018.
+Projects
+Built an incremental ingestion pipeline with retries and scheduled warehouse jobs.
+Certifications
+Completed introductory software engineering and technical communication training.

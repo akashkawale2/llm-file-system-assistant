@@ -1,0 +1,2 @@
+Data Engineer
+Build SQL warehouse ETL pipelines using Python, Spark and Airflow on AWS. Must-have: Spark, Airflow

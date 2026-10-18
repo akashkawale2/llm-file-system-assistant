@@ -1,0 +1,20 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Sana Khan
+Summary
+Frontend Engineer. 2 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+JavaScript, TypeScript, React
+Experience
+Total professional experience: 2 years
+Frontend Engineer at Fictional Example Organization 10.
+Built accessible browser interfaces, reusable components, responsive layouts, and client state management.
+Explicit professional skill experience:
+JavaScript: 2 years
+TypeScript: 1 years
+React: 0 years
+Education
+B.Sc. Information Technology, Example Institute, 2024.
+Projects
+Implemented a dashboard with charts, search, and reusable forms.
+Certifications
+Completed introductory software engineering and technical communication training.

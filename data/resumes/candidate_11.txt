@@ -1,0 +1,21 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Arjun Joshi
+Summary
+Machine Learning Engineer. 2 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Python, Machine Learning, PyTorch, Pandas
+Experience
+Total professional experience: 2 years
+Machine Learning Engineer at Fictional Example Organization 11.
+Trained predictive models, evaluated validation sets, deployed inference services, and monitored data drift.
+Explicit professional skill experience:
+Python: 2 years
+Machine Learning: 1 years
+PyTorch: 0 years
+Pandas: 2 years
+Education
+B.Sc. Information Technology, Example Institute, 2024.
+Projects
+Developed a document classification pipeline using vector representations and model evaluation.
+Certifications
+Completed introductory software engineering and technical communication training.

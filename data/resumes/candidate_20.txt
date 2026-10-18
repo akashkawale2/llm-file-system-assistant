@@ -1,0 +1,23 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Leela Thomas
+Summary
+Data Engineer. 5 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Python, SQL, Spark, Airflow, ETL, AWS
+Experience
+Total professional experience: 5 years
+Data Engineer at Fictional Example Organization 20.
+Orchestrated batch data pipelines, transformed warehouse tables, and monitored data quality.
+Explicit professional skill experience:
+Python: 5 years
+SQL: 4 years
+Spark: 3 years
+Airflow: 5 years
+ETL: 4 years
+AWS: 3 years
+Education
+M.Tech. Computer Science, Example Institute, 2021.
+Projects
+Built an incremental ingestion pipeline with retries and scheduled warehouse jobs.
+Certifications
+Completed introductory software engineering and technical communication training.

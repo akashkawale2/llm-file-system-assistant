@@ -1,0 +1,22 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Neel Patel
+Summary
+Python Backend Developer. 2 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Python, Django, DRF, PostgreSQL, Docker
+Experience
+Total professional experience: 2 years
+Python Backend Developer at Fictional Example Organization 9.
+Built REST APIs with authentication, relational models, database indexes, and asynchronous task queues.
+Explicit professional skill experience:
+Python: 2 years
+Django: 1 years
+DRF: 0 years
+PostgreSQL: 2 years
+Docker: 1 years
+Education
+B.Sc. Information Technology, Example Institute, 2024.
+Projects
+Developed an event booking service with transactional ticket inventory and API tests.
+Certifications
+Completed introductory software engineering and technical communication training.

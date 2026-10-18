@@ -28,7 +28,7 @@ class ToolTests(unittest.TestCase):
         self.assertFalse(fs_tools.search_in_file('resumes/resume_john_doe.pdf', '')['success'])
 
     def test_write_and_errors(self):
-        with tempfile.TemporaryDirectory() as directory, patch.object(fs_tools, 'ROOT', Path(directory)):
+        with tempfile.TemporaryDirectory() as directory, patch.object(fs_tools, 'ROOT', Path(directory).resolve()):
             self.assertTrue(fs_tools.write_file('outputs/nested/summary.txt', 'Hello Python')['success'])
             self.assertEqual(fs_tools.read_file('outputs/nested/summary.txt')['content'], 'Hello Python')
             self.assertFalse(fs_tools.read_file('missing.pdf')['success'])
@@ -45,7 +45,7 @@ class ToolTests(unittest.TestCase):
 
     def test_symlink_escape(self):
         with tempfile.TemporaryDirectory() as directory, tempfile.TemporaryDirectory() as outside:
-            root = Path(directory)
+            root = Path(directory).resolve()
             Path(outside, 'private.txt').write_text('secret')
             (root / 'link.txt').symlink_to(Path(outside, 'private.txt'))
             with patch.object(fs_tools, 'ROOT', root):

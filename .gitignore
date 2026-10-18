@@ -4,3 +4,7 @@ __pycache__/
 *.pyc
 outputs/
 .DS_Store
+# RAG generated files
+chroma_db*/
+.ipynb_checkpoints/
+outputs/rag_*.json

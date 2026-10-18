@@ -1,0 +1,21 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Diya Shah
+Summary
+Frontend Engineer. 0 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+JavaScript, TypeScript, React, Git
+Experience
+Total professional experience: 0 years
+Frontend Engineer at Fictional Example Organization 2.
+No professional employment yet. Completed academic coursework and internships; professional experience: 0 years.
+Explicit professional skill experience:
+JavaScript: 0 years
+TypeScript: 0 years
+React: 0 years
+Git: 0 years
+Education
+B.E. Computer Engineering, Example Institute, 2026.
+Projects
+Implemented a dashboard with charts, search, and reusable forms.
+Certifications
+Completed introductory software engineering and technical communication training.

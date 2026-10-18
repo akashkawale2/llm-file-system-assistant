@@ -1,0 +1,24 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Om Bhat
+Summary
+Python Backend Developer. 8 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Python, Django, DRF, PostgreSQL, Docker, Git, AWS
+Experience
+Total professional experience: 8 years
+Python Backend Developer at Fictional Example Organization 25.
+Built REST APIs with authentication, relational models, database indexes, and asynchronous task queues.
+Explicit professional skill experience:
+Python: 3 years
+Django: 7 years
+DRF: 6 years
+PostgreSQL: 8 years
+Docker: 7 years
+Git: 6 years
+AWS: 8 years
+Education
+B.E. Electronics Engineering, Example Institute, 2018.
+Projects
+Developed an event booking service with transactional ticket inventory and API tests.
+Certifications
+Completed introductory software engineering and technical communication training.

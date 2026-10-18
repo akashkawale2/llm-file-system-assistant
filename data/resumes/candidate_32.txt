@@ -1,0 +1,23 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Sia Chandra
+Summary
+Business Data Analyst. 8 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+SQL, Excel, Tableau, Power BI, Pandas, Python
+Experience
+Total professional experience: 8 years
+Business Data Analyst at Fictional Example Organization 32.
+Analyzed business performance, prepared executive dashboards, and validated reporting datasets.
+Explicit professional skill experience:
+SQL: 8 years
+Excel: 7 years
+Tableau: 6 years
+Power BI: 8 years
+Pandas: 7 years
+Python: 6 years
+Education
+B.E. Electronics Engineering, Example Institute, 2018.
+Projects
+Created a sales dashboard with cohort analysis and revenue measures.
+Certifications
+Completed introductory software engineering and technical communication training.

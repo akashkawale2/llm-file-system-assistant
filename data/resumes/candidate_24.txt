@@ -1,0 +1,22 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Sara Dutta
+Summary
+Business Data Analyst. 5 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+SQL, Excel, Tableau, Power BI, Pandas
+Experience
+Total professional experience: 5 years
+Business Data Analyst at Fictional Example Organization 24.
+Analyzed business performance, prepared executive dashboards, and validated reporting datasets.
+Explicit professional skill experience:
+SQL: 5 years
+Excel: 4 years
+Tableau: 3 years
+Power BI: 5 years
+Pandas: 4 years
+Education
+M.Tech. Computer Science, Example Institute, 2021.
+Projects
+Created a sales dashboard with cohort analysis and revenue measures.
+Certifications
+Completed introductory software engineering and technical communication training.

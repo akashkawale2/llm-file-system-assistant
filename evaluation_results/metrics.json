@@ -1,0 +1,256 @@
+{
+  "experiments": [
+    {
+      "semantic_weight": 1.0,
+      "repeats": 3,
+      "queries": [
+        {
+          "job_id": "job_01",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 13.69
+        },
+        {
+          "job_id": "job_02",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 13.56
+        },
+        {
+          "job_id": "job_03",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 10.22
+        },
+        {
+          "job_id": "job_04",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 10.15
+        },
+        {
+          "job_id": "job_05",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 10.3
+        },
+        {
+          "job_id": "job_06",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 10.36
+        },
+        {
+          "job_id": "job_07",
+          "precision_at_10": 0.1,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 1,
+          "relevant_count": 1,
+          "median_latency_ms": 10.35
+        }
+      ],
+      "macro_average": {
+        "precision_at_10": 0.35714285714285715,
+        "recall_at_10": 1.0,
+        "ndcg_at_10": 1.0,
+        "reciprocal_rank": 1.0,
+        "median_latency_ms": 11.232857142857142
+      },
+      "notes": "Synthetic, small, template-based benchmark; not evidence of real-world hiring accuracy. Latency excludes model loading and indexing. JD text constraints remain active."
+    },
+    {
+      "semantic_weight": 0.7,
+      "repeats": 3,
+      "queries": [
+        {
+          "job_id": "job_01",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 10.14
+        },
+        {
+          "job_id": "job_02",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 12.55
+        },
+        {
+          "job_id": "job_03",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 10.01
+        },
+        {
+          "job_id": "job_04",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 9.93
+        },
+        {
+          "job_id": "job_05",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 9.54
+        },
+        {
+          "job_id": "job_06",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 10.01
+        },
+        {
+          "job_id": "job_07",
+          "precision_at_10": 0.1,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 1,
+          "relevant_count": 1,
+          "median_latency_ms": 9.36
+        }
+      ],
+      "macro_average": {
+        "precision_at_10": 0.35714285714285715,
+        "recall_at_10": 1.0,
+        "ndcg_at_10": 1.0,
+        "reciprocal_rank": 1.0,
+        "median_latency_ms": 10.22
+      },
+      "notes": "Synthetic, small, template-based benchmark; not evidence of real-world hiring accuracy. Latency excludes model loading and indexing. JD text constraints remain active."
+    },
+    {
+      "semantic_weight": 0.4,
+      "repeats": 3,
+      "queries": [
+        {
+          "job_id": "job_01",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 10.27
+        },
+        {
+          "job_id": "job_02",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 10.09
+        },
+        {
+          "job_id": "job_03",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 12.83
+        },
+        {
+          "job_id": "job_04",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 9.79
+        },
+        {
+          "job_id": "job_05",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 9.93
+        },
+        {
+          "job_id": "job_06",
+          "precision_at_10": 0.4,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 4,
+          "relevant_count": 4,
+          "median_latency_ms": 10.46
+        },
+        {
+          "job_id": "job_07",
+          "precision_at_10": 0.1,
+          "recall_at_10": 1.0,
+          "ndcg_at_10": 1.0,
+          "reciprocal_rank": 1.0,
+          "returned": 1,
+          "relevant_count": 1,
+          "median_latency_ms": 10.14
+        }
+      ],
+      "macro_average": {
+        "precision_at_10": 0.35714285714285715,
+        "recall_at_10": 1.0,
+        "ndcg_at_10": 1.0,
+        "reciprocal_rank": 1.0,
+        "median_latency_ms": 10.501428571428571
+      },
+      "notes": "Synthetic, small, template-based benchmark; not evidence of real-world hiring accuracy. Latency excludes model loading and indexing. JD text constraints remain active."
+    }
+  ]
+}

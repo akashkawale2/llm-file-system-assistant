@@ -1,0 +1,106 @@
+[
+  {
+    "id": "job_01",
+    "path": "data/jobs/job_01.txt",
+    "relevant": [
+      "data/resumes/candidate_01.txt",
+      "data/resumes/candidate_09.txt",
+      "data/resumes/candidate_17.txt",
+      "data/resumes/candidate_25.txt"
+    ],
+    "must_have": [
+      "Python",
+      "Django"
+    ],
+    "skill_years": {}
+  },
+  {
+    "id": "job_02",
+    "path": "data/jobs/job_02.txt",
+    "relevant": [
+      "data/resumes/candidate_02.txt",
+      "data/resumes/candidate_10.txt",
+      "data/resumes/candidate_18.txt",
+      "data/resumes/candidate_26.txt"
+    ],
+    "must_have": [
+      "React",
+      "TypeScript"
+    ],
+    "skill_years": {}
+  },
+  {
+    "id": "job_03",
+    "path": "data/jobs/job_03.txt",
+    "relevant": [
+      "data/resumes/candidate_03.txt",
+      "data/resumes/candidate_11.txt",
+      "data/resumes/candidate_19.txt",
+      "data/resumes/candidate_27.txt"
+    ],
+    "must_have": [
+      "Python",
+      "PyTorch"
+    ],
+    "skill_years": {}
+  },
+  {
+    "id": "job_04",
+    "path": "data/jobs/job_04.txt",
+    "relevant": [
+      "data/resumes/candidate_04.txt",
+      "data/resumes/candidate_12.txt",
+      "data/resumes/candidate_20.txt",
+      "data/resumes/candidate_28.txt"
+    ],
+    "must_have": [
+      "Spark",
+      "Airflow"
+    ],
+    "skill_years": {}
+  },
+  {
+    "id": "job_05",
+    "path": "data/jobs/job_05.txt",
+    "relevant": [
+      "data/resumes/candidate_05.txt",
+      "data/resumes/candidate_13.txt",
+      "data/resumes/candidate_21.txt",
+      "data/resumes/candidate_29.txt"
+    ],
+    "must_have": [
+      "Kubernetes",
+      "Terraform"
+    ],
+    "skill_years": {}
+  },
+  {
+    "id": "job_06",
+    "path": "data/jobs/job_06.txt",
+    "relevant": [
+      "data/resumes/candidate_06.txt",
+      "data/resumes/candidate_14.txt",
+      "data/resumes/candidate_22.txt",
+      "data/resumes/candidate_30.txt"
+    ],
+    "must_have": [
+      "Selenium",
+      "Pytest"
+    ],
+    "skill_years": {}
+  },
+  {
+    "id": "job_07",
+    "path": "data/jobs/job_07.txt",
+    "relevant": [
+      "data/resumes/candidate_17.txt"
+    ],
+    "must_have": [
+      "Python",
+      "Django"
+    ],
+    "skill_years": {
+      "Python": 5
+    }
+  }
+]

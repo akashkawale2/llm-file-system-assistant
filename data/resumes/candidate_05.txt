@@ -1,0 +1,23 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Ishaan Sen
+Summary
+DevOps Engineer. 0 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Linux, AWS, Docker, Kubernetes, Terraform, Git
+Experience
+Total professional experience: 0 years
+DevOps Engineer at Fictional Example Organization 5.
+No professional employment yet. Completed academic coursework and internships; professional experience: 0 years.
+Explicit professional skill experience:
+Linux: 0 years
+AWS: 0 years
+Docker: 0 years
+Kubernetes: 0 years
+Terraform: 0 years
+Git: 0 years
+Education
+B.E. Computer Engineering, Example Institute, 2026.
+Projects
+Implemented automated deployments with infrastructure plans and rollback procedures.
+Certifications
+Completed introductory software engineering and technical communication training.

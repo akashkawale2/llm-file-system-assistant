@@ -1,0 +1,657 @@
+[
+  {
+    "resume_path": "data/resumes/candidate_01.txt",
+    "name": "Aarav Mehta",
+    "role_group": "backend",
+    "experience_years": 0,
+    "skills": [
+      "Python",
+      "Django",
+      "DRF",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "skill_years": {
+      "Python": 0,
+      "Django": 0,
+      "DRF": 0,
+      "PostgreSQL": 0,
+      "Docker": 0,
+      "Git": 0
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_02.txt",
+    "name": "Diya Shah",
+    "role_group": "frontend",
+    "experience_years": 0,
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Git"
+    ],
+    "skill_years": {
+      "JavaScript": 0,
+      "TypeScript": 0,
+      "React": 0,
+      "Git": 0
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_03.txt",
+    "name": "Kabir Nair",
+    "role_group": "ml",
+    "experience_years": 0,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Pandas",
+      "Docker"
+    ],
+    "skill_years": {
+      "Python": 0,
+      "Machine Learning": 0,
+      "PyTorch": 0,
+      "Pandas": 0,
+      "Docker": 0
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_04.txt",
+    "name": "Mira Rao",
+    "role_group": "data",
+    "experience_years": 0,
+    "skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "Airflow",
+      "ETL",
+      "AWS"
+    ],
+    "skill_years": {
+      "Python": 0,
+      "SQL": 0,
+      "Spark": 0,
+      "Airflow": 0,
+      "ETL": 0,
+      "AWS": 0
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_05.txt",
+    "name": "Ishaan Sen",
+    "role_group": "devops",
+    "experience_years": 0,
+    "skills": [
+      "Linux",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Git"
+    ],
+    "skill_years": {
+      "Linux": 0,
+      "AWS": 0,
+      "Docker": 0,
+      "Kubernetes": 0,
+      "Terraform": 0,
+      "Git": 0
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_06.txt",
+    "name": "Ananya Das",
+    "role_group": "qa",
+    "experience_years": 0,
+    "skills": [
+      "Python",
+      "Selenium",
+      "Pytest",
+      "SQL",
+      "Git"
+    ],
+    "skill_years": {
+      "Python": 0,
+      "Selenium": 0,
+      "Pytest": 0,
+      "SQL": 0,
+      "Git": 0
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_07.txt",
+    "name": "Rohan Iyer",
+    "role_group": "java",
+    "experience_years": 0,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "Docker",
+      "Redis"
+    ],
+    "skill_years": {
+      "Java": 0,
+      "Spring Boot": 0,
+      "SQL": 0,
+      "Docker": 0,
+      "Redis": 0
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_08.txt",
+    "name": "Tara Bose",
+    "role_group": "analyst",
+    "experience_years": 0,
+    "skills": [
+      "SQL",
+      "Excel",
+      "Tableau",
+      "Power BI",
+      "Pandas"
+    ],
+    "skill_years": {
+      "SQL": 0,
+      "Excel": 0,
+      "Tableau": 0,
+      "Power BI": 0,
+      "Pandas": 0
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_09.txt",
+    "name": "Neel Patel",
+    "role_group": "backend",
+    "experience_years": 2,
+    "skills": [
+      "Python",
+      "Django",
+      "DRF",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "skill_years": {
+      "Python": 2,
+      "Django": 1,
+      "DRF": 0,
+      "PostgreSQL": 2,
+      "Docker": 1
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_10.txt",
+    "name": "Sana Khan",
+    "role_group": "frontend",
+    "experience_years": 2,
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React"
+    ],
+    "skill_years": {
+      "JavaScript": 2,
+      "TypeScript": 1,
+      "React": 0
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_11.txt",
+    "name": "Arjun Joshi",
+    "role_group": "ml",
+    "experience_years": 2,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Pandas"
+    ],
+    "skill_years": {
+      "Python": 2,
+      "Machine Learning": 1,
+      "PyTorch": 0,
+      "Pandas": 2
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_12.txt",
+    "name": "Ira Menon",
+    "role_group": "data",
+    "experience_years": 2,
+    "skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "Airflow",
+      "ETL"
+    ],
+    "skill_years": {
+      "Python": 2,
+      "SQL": 1,
+      "Spark": 0,
+      "Airflow": 2,
+      "ETL": 1
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_13.txt",
+    "name": "Dev Sethi",
+    "role_group": "devops",
+    "experience_years": 2,
+    "skills": [
+      "Linux",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "skill_years": {
+      "Linux": 2,
+      "AWS": 1,
+      "Docker": 0,
+      "Kubernetes": 2,
+      "Terraform": 1
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_14.txt",
+    "name": "Zoya Ali",
+    "role_group": "qa",
+    "experience_years": 2,
+    "skills": [
+      "Python",
+      "Selenium",
+      "Pytest",
+      "SQL"
+    ],
+    "skill_years": {
+      "Python": 2,
+      "Selenium": 1,
+      "Pytest": 0,
+      "SQL": 2
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_15.txt",
+    "name": "Kunal Desai",
+    "role_group": "java",
+    "experience_years": 2,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "Docker"
+    ],
+    "skill_years": {
+      "Java": 2,
+      "Spring Boot": 1,
+      "SQL": 0,
+      "Docker": 2
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_16.txt",
+    "name": "Nina Roy",
+    "role_group": "analyst",
+    "experience_years": 2,
+    "skills": [
+      "SQL",
+      "Excel",
+      "Tableau",
+      "Power BI"
+    ],
+    "skill_years": {
+      "SQL": 2,
+      "Excel": 1,
+      "Tableau": 0,
+      "Power BI": 2
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_17.txt",
+    "name": "Vivaan Jain",
+    "role_group": "backend",
+    "experience_years": 5,
+    "skills": [
+      "Python",
+      "Django",
+      "DRF",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "skill_years": {
+      "Python": 5,
+      "Django": 4,
+      "DRF": 3,
+      "PostgreSQL": 5,
+      "Docker": 4,
+      "Git": 3
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_18.txt",
+    "name": "Aisha Kapoor",
+    "role_group": "frontend",
+    "experience_years": 5,
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Git"
+    ],
+    "skill_years": {
+      "JavaScript": 5,
+      "TypeScript": 4,
+      "React": 3,
+      "Git": 5
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_19.txt",
+    "name": "Aditya Kulkarni",
+    "role_group": "ml",
+    "experience_years": 5,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Pandas",
+      "Docker"
+    ],
+    "skill_years": {
+      "Python": 5,
+      "Machine Learning": 4,
+      "PyTorch": 3,
+      "Pandas": 5,
+      "Docker": 4
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_20.txt",
+    "name": "Leela Thomas",
+    "role_group": "data",
+    "experience_years": 5,
+    "skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "Airflow",
+      "ETL",
+      "AWS"
+    ],
+    "skill_years": {
+      "Python": 5,
+      "SQL": 4,
+      "Spark": 3,
+      "Airflow": 5,
+      "ETL": 4,
+      "AWS": 3
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_21.txt",
+    "name": "Yash Malhotra",
+    "role_group": "devops",
+    "experience_years": 5,
+    "skills": [
+      "Linux",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Git"
+    ],
+    "skill_years": {
+      "Linux": 5,
+      "AWS": 4,
+      "Docker": 3,
+      "Kubernetes": 5,
+      "Terraform": 4,
+      "Git": 3
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_22.txt",
+    "name": "Meera Reddy",
+    "role_group": "qa",
+    "experience_years": 5,
+    "skills": [
+      "Python",
+      "Selenium",
+      "Pytest",
+      "SQL",
+      "Git"
+    ],
+    "skill_years": {
+      "Python": 5,
+      "Selenium": 4,
+      "Pytest": 3,
+      "SQL": 5,
+      "Git": 4
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_23.txt",
+    "name": "Ravi Verma",
+    "role_group": "java",
+    "experience_years": 5,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "Docker",
+      "Redis"
+    ],
+    "skill_years": {
+      "Java": 5,
+      "Spring Boot": 4,
+      "SQL": 3,
+      "Docker": 5,
+      "Redis": 4
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_24.txt",
+    "name": "Sara Dutta",
+    "role_group": "analyst",
+    "experience_years": 5,
+    "skills": [
+      "SQL",
+      "Excel",
+      "Tableau",
+      "Power BI",
+      "Pandas"
+    ],
+    "skill_years": {
+      "SQL": 5,
+      "Excel": 4,
+      "Tableau": 3,
+      "Power BI": 5,
+      "Pandas": 4
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_25.txt",
+    "name": "Om Bhat",
+    "role_group": "backend",
+    "experience_years": 8,
+    "skills": [
+      "Python",
+      "Django",
+      "DRF",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "AWS"
+    ],
+    "skill_years": {
+      "Python": 3,
+      "Django": 7,
+      "DRF": 6,
+      "PostgreSQL": 8,
+      "Docker": 7,
+      "Git": 6,
+      "AWS": 8
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_26.txt",
+    "name": "Rhea Singh",
+    "role_group": "frontend",
+    "experience_years": 8,
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Git",
+      "Python"
+    ],
+    "skill_years": {
+      "JavaScript": 8,
+      "TypeScript": 7,
+      "React": 6,
+      "Git": 8,
+      "Python": 7
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_27.txt",
+    "name": "Ved Prasad",
+    "role_group": "ml",
+    "experience_years": 8,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "Pandas",
+      "Docker",
+      "AWS"
+    ],
+    "skill_years": {
+      "Python": 8,
+      "Machine Learning": 7,
+      "PyTorch": 6,
+      "Pandas": 8,
+      "Docker": 7,
+      "AWS": 6
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_28.txt",
+    "name": "Alia George",
+    "role_group": "data",
+    "experience_years": 8,
+    "skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "Airflow",
+      "ETL",
+      "AWS",
+      "AWS"
+    ],
+    "skill_years": {
+      "Python": 8,
+      "SQL": 7,
+      "Spark": 6,
+      "Airflow": 8,
+      "ETL": 7,
+      "AWS": 8
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_29.txt",
+    "name": "Rehan Gupta",
+    "role_group": "devops",
+    "experience_years": 8,
+    "skills": [
+      "Linux",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Git",
+      "Python"
+    ],
+    "skill_years": {
+      "Linux": 8,
+      "AWS": 7,
+      "Docker": 6,
+      "Kubernetes": 8,
+      "Terraform": 7,
+      "Git": 6,
+      "Python": 8
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_30.txt",
+    "name": "Pooja Naik",
+    "role_group": "qa",
+    "experience_years": 8,
+    "skills": [
+      "Python",
+      "Selenium",
+      "Pytest",
+      "SQL",
+      "Git",
+      "AWS"
+    ],
+    "skill_years": {
+      "Python": 8,
+      "Selenium": 7,
+      "Pytest": 6,
+      "SQL": 8,
+      "Git": 7,
+      "AWS": 6
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_31.txt",
+    "name": "Nikhil Paul",
+    "role_group": "java",
+    "experience_years": 8,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "Docker",
+      "Redis",
+      "Python"
+    ],
+    "skill_years": {
+      "Java": 8,
+      "Spring Boot": 7,
+      "SQL": 6,
+      "Docker": 8,
+      "Redis": 7,
+      "Python": 6
+    }
+  },
+  {
+    "resume_path": "data/resumes/candidate_32.txt",
+    "name": "Sia Chandra",
+    "role_group": "analyst",
+    "experience_years": 8,
+    "skills": [
+      "SQL",
+      "Excel",
+      "Tableau",
+      "Power BI",
+      "Pandas",
+      "Python"
+    ],
+    "skill_years": {
+      "SQL": 8,
+      "Excel": 7,
+      "Tableau": 6,
+      "Power BI": 8,
+      "Pandas": 7,
+      "Python": 6
+    }
+  }
+]

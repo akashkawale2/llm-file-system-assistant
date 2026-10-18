@@ -1,0 +1,21 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Kunal Desai
+Summary
+Java Backend Engineer. 2 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Java, Spring Boot, SQL, Docker
+Experience
+Total professional experience: 2 years
+Java Backend Engineer at Fictional Example Organization 15.
+Designed JVM microservices, authentication, caching, and transactional persistence.
+Explicit professional skill experience:
+Java: 2 years
+Spring Boot: 1 years
+SQL: 0 years
+Docker: 2 years
+Education
+B.Sc. Information Technology, Example Institute, 2024.
+Projects
+Developed a payment processing service with idempotent requests and retry handling.
+Certifications
+Completed introductory software engineering and technical communication training.

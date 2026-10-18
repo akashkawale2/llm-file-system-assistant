@@ -1,0 +1,22 @@
+FICTIONAL SYNTHETIC RESUME — educational benchmark only
+Name: Ira Menon
+Summary
+Data Engineer. 2 years total professional experience. Interested in reliable software and collaborative delivery.
+Skills
+Python, SQL, Spark, Airflow, ETL
+Experience
+Total professional experience: 2 years
+Data Engineer at Fictional Example Organization 12.
+Orchestrated batch data pipelines, transformed warehouse tables, and monitored data quality.
+Explicit professional skill experience:
+Python: 2 years
+SQL: 1 years
+Spark: 0 years
+Airflow: 2 years
+ETL: 1 years
+Education
+B.Sc. Information Technology, Example Institute, 2024.
+Projects
+Built an incremental ingestion pipeline with retries and scheduled warehouse jobs.
+Certifications
+Completed introductory software engineering and technical communication training.
